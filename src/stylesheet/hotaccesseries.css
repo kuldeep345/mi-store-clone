@@ -1,0 +1,23 @@
+.hotaccesseries{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.accessorieslastdiv{
+    display: f;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 70%;
+}
+
+.accessorieslastdiv img{
+    height: 200px;
+    width: 200px;
+}
+
+.musiccoverdiv{
+    width: 22%;
+}

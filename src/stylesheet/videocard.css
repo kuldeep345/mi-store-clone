@@ -1,0 +1,22 @@
+.videocard{
+    position: relative;
+    float: left;
+    width: 398px;
+    height: 320px;
+    margin-left: 16px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.playicon{
+    font-size: 80px;
+    color: white;
+    opacity: 0.4;
+}
+.playicon:hover{
+    font-size: 80px;
+    color: white;
+    opacity: 0.6;
+}

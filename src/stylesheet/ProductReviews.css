@@ -1,0 +1,8 @@
+.productReview{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 90%;
+    gap: 11px;
+}

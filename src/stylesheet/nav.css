@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@900&family=Poppins&display=swap');
+.navbar{
+    padding: 0 30px;
+    position: absolute;
+    height: 88px;
+    z-index: 100;
+    background-color: transparent;
+    display: grid;
+    grid-template-columns: 8fr 5fr;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+/* 
+.navbar:hover{
+background-color: white;
+color: black;
+} */
+
+
+.logopng{
+    width: 55px;
+}
+.logodiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 36px;
+    padding-left: 60px;
+}
+
+.search{
+    border: none;
+background: transparent;
+border-bottom: 1px solid white;
+width: 50%;
+box-sizing: border-box;
+padding: 0 0 6px 10px;
+font-size: 13px;
+font-weight: 500;
+color: rgb(174, 174, 174);
+outline: none;
+}
+
+.navlinks{
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    color: white;
+}
+
+.navlinks:hover{
+   color:#ff6900;
+}
+
+.searchdiv{
+    display: flex;
+justify-content: flex-end;
+align-items: center;
+padding-right: 40px;
+}
+
+.searchIcon{
+    color: white;
+    margin-left: 10px;
+}

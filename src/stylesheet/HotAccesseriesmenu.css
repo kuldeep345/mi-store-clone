@@ -1,0 +1,19 @@
+.HotAccessoriesMenu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin: 0 0 30px 1px;
+}
+
+.hotlink{
+    text-decoration: none;
+    color: gray;
+    padding: 3px 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hotlink:hover{
+    color: rgb(255, 153, 0);
+    border-bottom: 1px solid;
+}

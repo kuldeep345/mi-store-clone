@@ -1,0 +1,5 @@
+.endimage{
+    height: 500px;
+    background-color: black;
+    filter: brightness(60%)
+}

@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@900&family=Poppins&display=swap');
+.prenav{
+    background-color: rgb(32, 32, 32);
+    display: grid;
+    grid-template-columns: 5fr 2fr;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.leftdiv{
+    padding-left: 50px;
+    padding-top: 9px;
+    padding-bottom: 8px;
+   
+}
+.rightdiv{
+    padding-left: 50px;
+    padding-top: 12px;
+    padding-bottom: 8px;
+    display: flex;
+   
+}
+
+.prenav >div >a{
+    padding: 0px 20px;
+    font-size: 12px;
+    color: rgb(163, 163, 163);
+    text-decoration: none;
+}
+.prenav >div >a:hover{
+    color: white
+}
+
+.dash{
+    font-size: 12px;
+    color: gray;
+    font-weight: 100;
+}
